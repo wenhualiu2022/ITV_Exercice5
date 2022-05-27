@@ -1,3 +1,5 @@
+# ITV_Exercice5
+Dépôt utilisé dans l'exercice 5 du cours ITV été 2022
 
 Liste des contributeurs:
 
@@ -10,3 +12,4 @@ Liste des contributeurs:
 - Francis Landry
 - Dylan Bolduc-Veilleux
 - MaximeMichaud
+- kevin carufel
