@@ -12,3 +12,5 @@ Liste des contributeurs:
 - Alexandre Dussault
 - Francis Landry
 - Dylan
+- MaximeMichaud
+
