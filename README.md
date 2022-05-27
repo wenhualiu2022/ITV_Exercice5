@@ -13,4 +13,5 @@ Liste des contributeurs:
 - Francis Landry
 - Dylan
 - MaximeMichaud
+- Wenhua Liu
 
