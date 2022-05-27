@@ -9,4 +9,4 @@ Liste des contributeurs:
 - Alexandre Dussault
 - Francis Landry
 - Dylan Bolduc-Veilleux
->>>>>>> 54fb223bf68c5887b49f457b5bd20f287934813c
+- MaximeMichaud
