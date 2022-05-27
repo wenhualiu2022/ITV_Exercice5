@@ -13,3 +13,6 @@ Liste des contributeurs:
 - Dylan Bolduc-Veilleux
 - MaximeMichaud
 - kevin carufel
+- Simon Renaud
+
+
